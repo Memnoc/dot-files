@@ -6,7 +6,7 @@ return {
          ---@type lspconfig.options
          servers = {
             emmet_ls = {
-               filetypes = { 'html', 'typescriptreact', 'javascriptreact', 'css', 'sass', 'scss', 'less', 'javascript', 'typescript' },
+               filetypes = { 'html', 'typescriptreact', 'javascriptreact', 'css', 'sass', 'scss', 'less', 'javascript', 'typescript', 'markdown' },
                init_options = {
                   html = {
                      options = {
